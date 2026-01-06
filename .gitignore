@@ -22,6 +22,7 @@ env/
 data/raw/*.csv
 data/processed/*.csv
 
+
 # =========================
 # Sistema Operacional
 # =========================
