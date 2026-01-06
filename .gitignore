@@ -1,0 +1,29 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Ambientes virtuais
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# Dados (Data Projects)
+# =========================
+data/raw/*.csv
+data/processed/*.csv
+
+# =========================
+# Sistema Operacional
+# =========================
+.DS_Store
+Thumbs.db
